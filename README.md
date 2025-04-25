@@ -16,3 +16,8 @@ Com esse dashboard é possivel ver:
  - MySQL
 
 ## Imagem
+Como podem ver é um dashboard  bem simples.
+
+<img
+src="https://github.com/Emanoellima-dev/Dashboard/blob/main/imagem/imagem.jpg"
+ />
