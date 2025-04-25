@@ -4,7 +4,6 @@ import plotly.express as px
 from read_sql import media_salario_cargo, qtd_funcionarios, qtd_produtos, maiores_fabricantes, qtd_fretes
 
 app = Dash(external_stylesheets=[dbc.themes.SLATE])
-server = app.server
 
 fig1 = px.bar(media_salario_cargo, x="cargo", y="media de salario", title="media salarial por cargo", width=500, height=300, template="plotly_dark")
 
